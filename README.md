@@ -23,8 +23,7 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 
 ------------
 
-### Day 1: June 27, 2019, Friday
-
+### Day 1: June 27, 2019, Thursday
 **Today's Progress**: 
 - Worked on my thesis slides
 - Organizing a meetup for the secure and private AI group
