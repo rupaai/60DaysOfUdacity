@@ -28,8 +28,6 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 - Worked on my thesis slides
 - Organizing a meetup for the secure and private AI group
 
-**Link to work:** 
-- [Final Defense](https://docs.google.com/presentation/d/1BRIgdyDkVojueOgCJT2KHE9YMFstJSSNNpraB6Zt5Uk/edit?usp=sharing "Final Presentation Slides")
 
 **New thing(s) learned:** 
 - Couldn't work any new thing as I am working on the slides.
