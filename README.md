@@ -35,3 +35,17 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 **Thoughts:**  Really need to finish the slides tomorrow.
 
 ------------
+
+### Day 2: June 28, 2019, Friday
+**Today's Progress**: 
+- Finished my thesis slides
+- Started on revising CNNs and GANs for my thesis viva
+- Working on arranging some projects with BD group of SPAIC
+
+
+**New thing(s) learned:** 
+- Couldn't work any new thing as I need to concentrate somewhere else. I will start working fully after 30th.
+
+**Thoughts:**  Will prepare for the slides tomorrow
+
+------------
