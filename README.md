@@ -49,3 +49,11 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 **Thoughts:**  Will prepare for the slides tomorrow
 
 ------------
+
+### Break Day: June 29, 2019, Saturday
+
+------------
+
+### Day 3: June 30, 2019, Sunday
+
+
