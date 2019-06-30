@@ -55,5 +55,14 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 ------------
 
 ### Day 3: June 30, 2019, Sunday
+**Today's Progress**: 
+- Defended my thesis
+- Started learning from intro to pytorch again.
+- Panning the meetup for 5th July
 
+
+**New thing(s) learned:** 
+- Couldn't work any new thing as I was busy.
+
+**Thoughts:**  I will try to work much more from tommorrow. 
 
