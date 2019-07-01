@@ -66,3 +66,14 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 
 **Thoughts:**  I will try to work much more from tommorrow. 
 
+------------
+
+### Day 4: July 1, 2019, Monday
+**Today's Progress**: 
+- Read about Capsule net.
+
+
+**New thing(s) learned:** 
+- 
+
+**Thoughts:**  
