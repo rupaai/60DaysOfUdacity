@@ -75,5 +75,7 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 
 **New thing(s) learned:** 
 - Learned about intuition of Capsule nets
+- As I forgot some basics, I took the lesson 2 of intro 2 pytorch with DL again and took notes.
+
 
 **Thoughts:**  
