@@ -71,12 +71,13 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 ### Day 4: July 1, 2019, Monday
 **Today's Progress**: 
 - Read about Capsule net.
-
-
-**New thing(s) learned:** 
-- Learned about intuition of Capsule nets
 - worked on #ama_sessions as a moderator
 - As I forgot some basics, I took the lesson 2 of intro 2 pytorch with DL again and took notes.
-- Learning in depth on RNN
+- Learning in depth on RNN and coding
 
-**Thoughts:**  
+**New thing(s) learned:** 
+- Learned about intuition of Capsule nets.
+- Learned why perceptron algo works which I missed previously.
+
+
+**Thoughts:**  Will finish the RNN code tomorrow
