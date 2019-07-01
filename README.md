@@ -74,6 +74,6 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 
 
 **New thing(s) learned:** 
-- 
+- Learned about intuition of Capsule nets
 
 **Thoughts:**  
