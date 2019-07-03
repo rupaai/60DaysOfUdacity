@@ -82,6 +82,8 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 
 **Thoughts:**  Will finish the RNN code tomorrow
 
+------------
+
 ### Day 5: July 2, 2019, Tuesday
 **Today's Progress**: 
 - Started on Kaggle
@@ -91,3 +93,17 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 - How to submit on kaggle.
 
 **Thoughts:**  Couldn't do much because I was busy watching the match.
+
+------------
+
+### Day 6: July 3, 2019, Wednesday
+**Today's Progress**: 
+- Submitted for the first time on kaggle. **Accuracy: 97% | Score: 0.9923** | Link: https://bit.ly/309E6xD  | *Will try to improve it more.*
+
+- Started http://fast.ai  course - on lesson 1.
+
+**New thing(s) learned:** 
+- How to submit on kaggle.
+
+**Thoughts:**  Couldn't do much because I was busy watching the match.
+
