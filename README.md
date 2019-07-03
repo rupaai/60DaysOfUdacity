@@ -81,3 +81,13 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 
 
 **Thoughts:**  Will finish the RNN code tomorrow
+
+### Day 5: July 2, 2019, Tuesday
+**Today's Progress**: 
+- Started on Kaggle
+- talking about forming groups
+
+**New thing(s) learned:** 
+- How to submit on kaggle.
+
+**Thoughts:**  Couldn't do much because I was busy watching the match.
