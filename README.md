@@ -33,7 +33,7 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 - Couldn't work any new thing as I am working on the slides.
 
 **Thoughts:**  Really need to finish the slides tomorrow.
-
+ 
 ------------
 
 ### Day 2: June 28, 2019, Friday
