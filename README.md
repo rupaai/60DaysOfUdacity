@@ -386,3 +386,345 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 
 **Thoughts:** Will be out till 28th. So I'll just try my best to do at least something to continue my #60daysofudacity streak. 
 
+------------
+
+### Day 27: July 25, 2019, Tuesday
+**Today's Progress**: 
+-  Watched 3rd video of lesson 3 of this course.
+- Got this great news that we were selected as the 2nd runner up of Auto-matic Hackathon. 
+ 
+
+**New thing(s) learned:** 
+- Today I had the most breathtaking day of my life. I with my friends trekked mountains with heavy rainfall and slippery ways. It's irrelevant but still I wanted to share it here!
+- Got my first ever prize in hackathon.
+
+
+
+------------
+
+### Day 28: July 26, 2019, Wednesday
+**Today's Progress**: 
+- Been revising differential privacy. Since I'm still out of my place, I managed to start AFDP's second chapter. 
+
+
+------------
+
+### Day 29: July 27, 2019, Thursday
+**Today's Progress**: 
+- Worked on Malaria Project with @Rishi S Rao
+- Looking for picture ideas and trying them on my style stransfer implementation for #sg_project-t-shirt with @Shubhendu Mishra and @Archit
+- working on the ama faq doc 
+- Discussed about our meetup for #sg_caffeine_coders with @sourav kumar @Sabrina @Sumanyu Rosha
+
+------------
+
+### Day 30: July 28, 2019, Friday
+**Today's Progress**: 
+-  Tried to increase the accuracy a bit more of Malaria Dataset.
+- Rewatched the last few lessons of Essence of linear algebra series.
+- Started learning Deep learning book of Goodfellow book. Couldn't read much today. But, I decided to read this book every day from tomorrow at least for 2 hours, inspired by @Stark
+- Reading research papers for APTOS Blindness Detection
+
+------------
+
+### Day 31: July 29, 2019, Saturday
+**Today's Progress**: 
+-  Read up to section 2.11 of Deep learning book.
+- Read papers for the APTOS Blindness detection. Learning more about Cohen's kappa coefficient that I stumbled onto one of the papers.
+- Had an amazing meetup with @sourav kumar @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai@Archit @Munira Omar @Mohona @Ashish Shrivastava@Govind @Sharim from #sg_dlstarguys
+- Had another amazing meetup with @Jess @shahnoza@AbdElrhman  @Alexander Villasoto @Munira Omar@David Ashraf @Sarah Majors @Hitoishi Das @Sourav@Nouran El Kassas  @Shivam Raisharma @Mahedi from #sg_dl-goodfellows. Thanks @Shivam Raisharma for hosting it nicely
+
+**New thing(s) learned:** 
+- Using SVD and PCA along with Deep learning.
+
+------------
+
+### Day 32: July 30, 2019, Sunday
+**Today's Progress**: 
+
+- Learned about multitask learning.
+- Read this one: https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf
+- And this one: https://arxiv.org/pdf/1503.03832.pdf
+
+
+**New thing(s) learned:** 
+- multitask learning
+
+
+------------
+
+### Day 33: July 31, 2019, Monday
+**Today's Progress**: 
+
+- Learned more about multi-task learning.
+- Reading this paper: https://arxiv.org/pdf/1801.09414.pdf
+- Attended the meetup of #sg_pytorch-robotics
+
+------------
+
+### Day 34: August 1, 2019, Tuesday
+**Today's Progress**: 
+-  Worked on the APTOS Blindness Detection project. Reading research papers on it and implemented two of the papers according to it with @K.S.
+- Discussing about depression detection project with @Mohona @Munira Omar @Droid for project showcase challenge
+- Had a meetup about another project with @Stark for the same.
+
+
+------------
+
+### Day 35: August 2, 2019, Wednesday
+**Today's Progress**: 
+- Finally done reading all the expected papers for APTOS blindness detection and then discussed with @K.S. about them and next plan for the project.
+2. Started watching nlp tutorial from https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&t=0s
+3. Read this Article on depression detection: https://time.com/1915/how-twitter-knows-when-youre-depressed/?source=post_page--------------------------
+
+------------
+
+### Day 36: August 3, 2019, Thursday
+**Today's Progress**: 
+- Worked on Malaria Project with @Rishi S Rao
+- Looking for picture ideas and trying them on my style stransfer implementation for #sg_project-t-shirt with @Shubhendu Mishra and @Archit
+- working on the ama faq doc 
+- Discussed about our meetup for #sg_caffeine_coders with @sourav kumar @Sabrina @Sumanyu Rosha
+
+------------
+
+### Day 37: August 4, 2019, Friday
+**Today's Progress**: 
+-  Completed the 2nd chapter of the Deep learning of Ian Goodfellow book and re-read the 1st chapter again.
+- Read the following article and the articles attached mentioned there : https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf
+- Finished the first lesson of cs224.
+- Revised the notes of course 2 of DL specialization course.
+- Attended the meetup of #sg_novice-ai with @Seeratpal K. Jaura @Stark @Hung @Archit @Oudarjya Sen Sarma @ayivima @Ingus Terbets @cibaca @Apoorva Patil @Alexander Villasoto @Agata [OR, USA] @Shudipto Trafder
+
+------------
+
+### Day 38: August 5, 2019, Saturday
+**Today's Progress**: 
+Had a really busy day...so couldn't do much at all.
+- Revised about optimization, weight initialization, kl, js divergence.
+- worked on an old project bug
+
+------------
+
+### Day 39: August 6, 2019, Sunday
+**Today's Progress**: 
+
+Mostly it was a day with lots of discussions!
+- Had a great meetup with @Munira Omar @Aniket Mitra@Ashish Shrivastava @Seeratpal K. Jaura@Anju Mercian @Mohona@Aarthi Alagammai  @sourav kumar @Diganta for #sg_dlstarguys about math concepts.
+- Discussed with @K.S. about our progress on APTOS Blindness detection. So far, we were able to work according to the papers and make our model runnable. Now, we need to work on accuracy.
+- Had another meetup with @Mohona @Droid@Munira Omar @Aarthi Alagammai for our project of depression detection. So far we have scraped the dataset and our next target is to clean the data.
+
+
+------------
+
+### Day 40: August 7, 2019, Monday
+**Today's Progress**: 
+
+going through pretty busy days...so can't work much at all :disappointed:
+- Revised the course upto lesson 6
+
+------------
+
+### Day 41: August 8, 2019, Tuesday
+**Today's Progress**: 
+-  Started Lesson 6 project finally.
+- Data cleaning going on for the depression dataset.
+- Had a meetup with @Aisha Khatun @Mahedi @Shudipto Trafder on GAN concepts for #sg_bangladeshi-schlrs
+
+**Thoughts:**
+
+-  I really want to thank this slack community for making my birthday unforgettable :blush: I had an amazing birthday today for which a lot of credit goes to this community! I could never imagine so many people taking their time to wish me and thank you so much everyone and I had a blast!!
+
+
+------------
+
+### Day 42: August 9, 2019, Wednesday
+
+**Today's Progress**: 
+- Worked on promoting the math blogging competition for #sg_dlstarguys and #math_help
+- Working on cleaning the depression data
+
+------------
+
+### Day 43: August 10, 2019, Thursday
+
+**Today's Progress**: 
+- Had a meetup with @sourav kumar @Sabrina @Sumanyu Rosha about our project for #sg_caffeine_coders
+- Had a meetup with @Pooja Vinod @Ingus Terbets@Shudipto Trafder @Oudarjya Sen Sarma @cibaca @Ivy@Ateniola Oluwatobi Victor @Ayushi Gupta @Stanislav Ladyzhenskiy @Mateusz@Sourav @Gogulaanand R @Sayed Maheen Basheer @Sushil Ghimire @susyjam @Helena Barmer @Frida @Abhishek Tandon @Stark @Ayesha Manzur, @Helena Barmer, @Jess, @Anju Mercian for #sg_study_jahm
+- worked on APTOS Blindnes Detection and discussed with @K.S. about the same.
+- Still cleaning depression dataset, it's never-ending
+
+------------
+
+### Day 44: August 11, 2019, Friday
+**Today's Progress**: 
+-  Had a meetup for our depression detection project with @Mohona @Munira Omar @Aarthi Alagammai @Droid
+- Worked on the APTOS Blindness detection project with @K.S. and managed to get more than 80% accuracy so far. Still working on the improvements.
+- Worked on data preprocessing for the Emotion Recognition project with @Sabrina @Sumanyu Rosha @sourav kumar
+- Started cleaning the depression data. Cleaning and reading the tweets giving me depression
+
+------------
+
+### Day 45: August 12, 2019, Saturday
+**Today's Progress**: 
+- Almost finished cleaning the data...last 200 or some rows remaining.
+- read this article: https://towardsdatascience.com/text-summarization-with-amazon-reviews-41801c2210b
+
+------------
+
+### Day 46: August 13, 2019, Sunday
+**Today's Progress**: 
+
+- Finished the data cleaning for depression dataset finally :sweat_smile:
+- Read some part of this: https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html
+- Worked on APTOS Blindness detection for the submission...will submit it after this post 
+
+**Thoughts:** Couldn't submit :(
+
+------------
+
+### Day 47: August 14, 2019, Monday
+**Today's Progress**: 
+
+- Facing and solving the probles @K.S. and I are facing to submit the APTOS Blindness Detection kernel
+- Changed the architecture of Malaria Detection for better accuracy
+- Read this article: https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+- Had a meetup with @SusanW and @Mohona for Depression Detection project
+
+------------
+
+### Day 48: August 15, 2019, Tuesday
+**Today's Progress**: 
+- Had an in detailed discussion meetup about our depression detection project with @Mohona @Munira Omar @SusanW @Marwa 
+- Discussed further plans about emotion recognition project.
+- Worked little bit on APTOS blindness detection project..I couldn't find a way to submit the kernel while turning off the internet as I am using Transfer learning...so now I am trying a simple model and discussed about that with @K.S. 
+
+
+------------
+
+### Day 49: August 16, 2019, Wednesday
+
+**Today's Progress**: 
+
+- Worked on APTOS blindness detection...still trying to improve the accuracy
+- Discussed with @Sabrina about deployment of emotion recognition.
+- Had a meetup with depression detection team - @Munira Omar @Aarthi Alagammai @Mohona @Marwa @SusanW 
+
+
+------------
+
+### Day 50: August 17, 2019, Thursday
+
+**Today's Progress**: 
+
+-  Came out our previous depression dataset wasn't sufficient enough, so had to scrape again and now planning to use LIWC to extract the features.
+
+**Thoughts:** Finally reached day 50!!!
+
+------------
+
+### Day 51: August 18, 2019, Friday
+**Today's Progress**: 
+
+- learned about siamese network
+- Worked on depression detection
+**Forgot to mention**
+- Attended #wmn_who_code meetup
+- Learned about One shot learning and Zero shot learning
+- Worked on aptos blindness detection.
+
+------------
+
+### Day 52: August 19, 2019, Saturday
+**Today's Progress**: 
+
+- Corrected the dataset for Depression detection.
+- Working with @Sabrina @Sumanyu Rosha @sourav kumar for emotion recognition project.
+- Usual discussion with @K.S.
+- Had a meetup with @SusanW @Mohona @Munira Omar @Aarthi Alagammai @Marwa
+
+------------
+
+### Day 53: August 20, 2019, Sunday
+**Today's Progress**: 
+
+- Worked on the documentation of emotion recognition and aptos blindness detection project
+- worked on solving a bug on emotion recognition project with @sourav kumar
+- Had a meetup with the depression detection team
+
+**Thoughts:** Couldn't submit :(
+
+------------
+
+### Day 54: August 21, 2019, Monday
+**Today's Progress**: 
+
+- Finished and documened Federated Blindness Detection project  with amazing @K.S.: https://github.com/aksht94/UdacityOpenSource/tree/master/Federated%20Blindness%20Detection
+- Finished and documented Federated Emotion Recogniton projet with @Sabrina@Sumanyu Rosha @sourav kumar: https://github.com/aksht94/UdacityOpenSource/tree/master/Federated%20Emotion%20Recogniton
+- Finished Depression detection project with @SusanW @Marwa @Mohona @Aarthi Alagammai @Munira Omar @Droid: https://github.com/aksht94/UdacityOpenSource/tree/master/depression-detection
+
+**Thoughts:**
+
+- I want to thank @Soumia (you are an angel ^_^), @kkech and @Archit for the continuous help they provided me with..thank you :blush:
+- Celebrating and cheering my teammates @K.S. @Sabrina@Sumanyu Rosha @sourav kumar @SusanW @Marwa @Mohona @Aarthi Alagammai @Munira Omar @Droid It was an honour to work with you all 
+
+------------
+
+### Day 55: August 22, 2019, Monday
+**Today's Progress**: 
+
+- Worked on improving the accuracy of APTOS blindness detection. Learned about using weights on loss functions...thanks to @K.S. :heart:
+- Had a discussion about pytorch Hackathon with @Shivam Raisharma @Halwai Aftab Hasan @cibaca @Hitoishi Das 
+
+------------
+
+### Day 56: August 23, 2019, Tuesday
+
+**Today's Progress**: 
+- had a discussion with @Ashish Shrivastava about DL related applications
+- Worked on APTOS Blindness detection for getting better accuracy...this project is my favorite one...love working on it :heart_eyes:
+- Looking for ideas for pytorch hackathon with @Halwai Aftab Hasan @cibaca @Shivam Raisharma @Hitoishi Das
+- Encouraging @K.S. @Ashish Shrivastava @Mohona  @Halwai Aftab Hasan @cibaca @Shivam Raisharma@Hitoishi Das
+
+------------
+
+### Day 57: August 24, 2019, Wednesday
+
+**Today's Progress**: 
+
+- Studied about a new optimizer aka Ranger. Going to try it on APTOS.
+- Working on the Thank you Initiative for udacity-facebook. Would love to see everyone's participation. ^_^ Here: https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1566660348242000
+- Worked for the math blogging competiton.
+- Watched this video that my friend @Stark made for easy deployment of PyTorch models using Katana I think it will help many from now on...^_^ https://youtu.be/VqeD8lRhl2o
+
+------------
+
+### Day 58: August 25, 2019, Thursday
+
+- Attended the Deep Learning with PyTorch webinar as a presenter for the first time along with @K.S. @Pooja Vinod thank you guys for the support and managing so well..you did great :sparkling_heart: Link to the slides: https://docs.google.com/presentation/d/1llOPlEZsMf6rPl7EJPutQvqedYyOE6sjAiCw66XxwRo/edit?usp=sharing
+
+**Thoughts:** I am really thankful for this amazing community.
+
+------------
+
+
+### Day 59: August 26, 2019, Friday
+**Today's Progress**: 
+
+- Discussed about the ideas pytorch summer hackathon with @cibaca @Hitoishi Das @Shivam Raisharma @Halwai Aftab Hasan 
+- Worked on summarizing our projects for #project-showcase-challenge 
+
+------------
+
+### Day 60: August 27, 2019, Saturday
+
+**Today's Progress**: 
+
+- Went through many transfer learning articles to answer a question on #sg_novice-ai
+- Attended the webinar of #sg_novice-ai | Thank you @Ingus Terbets @Alexander Villasoto for sharing your knowledge with us.
+- Attended the meetup for PyTorch Summer Hackathon with @cibaca @Halwai Aftab Hasan @Hitoishi Das@Shivam Raisharma
+
+**Thoughts:**
+-  I really really want to thank two of my friends @Stark and @Ashish Shrivastava for helping me to go on with this challenge...if it wasn't for you, I might not even complete this course! Hahah :smile:
+- Thanks @K.S. for the constant encouragement and support that you provided through working on APTOS Blindness Detection project...It would be really tough starting office if you didn't support
+
