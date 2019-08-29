@@ -2,11 +2,11 @@
 **Main target:** ***I will try to devote at least an hour to learn or implement something in ML/DL field***
 
 This repo is about maintaing my daily activities regarding the #60DaysOfUdacity Challenge
-<!--
+
 |  Start Date | End Date |
 | ------------ | ------------ |
-| 27 June, 2019 | --------|
--->
+| 27 June, 2019 | 27 August, 2019|
+
 
 ## Goals
 - Make habit of working on Deep Learning
@@ -15,13 +15,14 @@ This repo is about maintaing my daily activities regarding the #60DaysOfUdacity 
 - Getting the Nanodegree Scholarship.
 
 ------------
-
+<!--
 ## Completed Projects List
 
 | No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
 
 ------------
+-->
 
 ### Day 1: June 27, 2019, Thursday
 **Today's Progress**: 
